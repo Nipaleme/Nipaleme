@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Github langs](https://github-readme-stats-chi-six-39.vercel.app/api/top-langs/?username=Nipaleme&layout=compact&langs_count=10&theme=nord)][ghr]
 
 <!--
 **Nipaleme/Nipaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
